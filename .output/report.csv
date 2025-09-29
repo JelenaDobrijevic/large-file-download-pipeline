@@ -1,0 +1,4 @@
+Query: SELECT * FROM users
+Fields: ["id","name"]
+Bucket: demo-bucket
+Folder: exports
